@@ -3,7 +3,7 @@
 Last updated: April 15, 2026
 
 This privacy policy applies to all Chrome extensions published by 
-CodeSlayer Austin Rejepov under the developer account austin.rejepov@gmail.com
+CodeSlayer Austin Rejepov under the developer account austin.rejepov+github@gmail.com
 
 ## Data Collection
 Our extensions do not collect, store, or transmit any personal user 
@@ -24,4 +24,4 @@ We do not sell, trade, or transfer user data to any third parties.
 We do not use third-party analytics or tracking services.
 
 ## Contact
-For questions about this privacy policy, contact: austin.rejepov@gmail.com
+For questions about this privacy policy, contact: austin.rejepov+github@gmail.com
